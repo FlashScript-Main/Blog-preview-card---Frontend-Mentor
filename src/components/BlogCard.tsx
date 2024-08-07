@@ -4,7 +4,7 @@ import { cardDescription, cardPublishedTime, cardTag, cardTitle, cardUserName } 
 const BlogCard = () => {
 
     return (
-        <div className={`max-w-[330px] md:max-w-[380px] p-6 relative | bg-neutral-white font-figtree | border border-neutral-black rounded-3xl | `}>
+        <div className={`max-w-[337px] md:max-w-[380px] p-6 relative | bg-neutral-white font-figtree | border border-neutral-black rounded-3xl | `}>
             <img 
                 src={illustrationImage} 
                 alt="Illustration Image" 
