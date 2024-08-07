@@ -7,7 +7,7 @@ export default {
   theme: {
     extend: {
       fontFamily: {
-        'outfit': ['"Figtree", sans-serif'],
+        'figtree': ['"Figtree", sans-serif'],
       },
       colors: {
         // Primary
